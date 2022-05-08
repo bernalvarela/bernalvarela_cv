@@ -16,10 +16,6 @@
         "URL": "https://github.com/bernalvarela"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3964370/bernal-varela"
-      },
-      {
         "type": "twitter",
         "URL": "https://twitter.com/bernalvarela"
       },
@@ -30,6 +26,20 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "French"
+      },
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -54,42 +64,6 @@
           "name": "Kafka",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenShift",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CouchDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Groovy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JUnit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spock",
-          "type": "technology"
-        }
       }
     ]
   },
@@ -99,10 +73,6 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/bernalvarela/"
-        },
-        {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3964370/bernal-varela"
         }
       ]
     }

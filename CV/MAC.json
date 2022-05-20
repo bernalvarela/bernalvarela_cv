@@ -16,6 +16,10 @@
         "URL": "https://github.com/bernalvarela"
       },
       {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/bernalvarela"
       },
@@ -59,6 +63,10 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/bernalvarela/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
         }
       ]
     },

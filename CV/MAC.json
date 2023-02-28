@@ -1,14 +1,21 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Bernal",
       "surnames": "Varela Gómez",
-      "description": "I am Bernal Varela, Galician software developer from A Coruña, I am making money working in what I like, creating software, since 2007 and loving computers since I have memory.\n\nI'm a father of two and another who comes, sports lover and cyclist when the weather allows it. I can't imagine my life without music, I play some instruments that give me peace of mind when I'm stressed. I like movies, video games, and board games.\nThis is what I like, but all the things that I like to do usually don't fit very well with my children's schedule.\n\nHow i'm i? I think I'm an optimistic and calm person with high level stress control, I like people, I like what I do and I like to do it well, I'm usually very demanding of myself and sometimes it stresses me. I am a curious person and I am used to evolving and trying to stay up to date with all the changes and updates of the technologies we are using."
+      "title": "",
+      "description": "I am Bernal Varela, Galician software developer from A Coruña, I am making money working in what I like, creating software, since 2007 and loving computers since I have memory.\n\nI'm a father of two and another who comes, sports lover and cyclist when the weather allows it. I can't imagine my life without music, I play some instruments that give me peace of mind when I'm stressed. I like movies, video games, and board games.\nThis is what I like, but all the things that I like to do usually don't fit very well with my children's schedule.\n\nHow i'm i? I think I'm an optimistic and calm person with high level stress control, I like people, I like what I do and I like to do it well, I'm usually very demanding of myself and sometimes it stresses me. I am a curious person and I am used to evolving and trying to stay up to date with all the changes and updates of the technologies we are using.",
+      "location": {
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "La Coruña",
+        "notes": "Autocompleted using Google Maps API"
+      }
     },
     "relevantLinks": [
       {
@@ -32,16 +39,20 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "French"
+        "name": "French",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -102,7 +113,16 @@
           "name": "Spring",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Developer Evangelist & Advocate",
+        "Engineering Management",
+        "IT Manager",
+        "Project Manager & Delivery Manager",
+        "Tech Lead"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }

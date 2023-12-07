@@ -11,8 +11,8 @@
       "title": "Senior Software Developer looking for an unicorn",
       "description": "Hello.\n\nI am Bernal Varela, Galician software developer from A Coruña, I have been working in what I like, creating software, since 2007 and loving computers since I have memory.\n\nI'm a father of three, sports lover and cyclist when the weather allows it. I can't imagine my life without music, I play some instruments that give me peace of mind when I'm stressed. I like movies, video games, and board games.\nThis is what I like, but all the things that I like to do usually don't fit very well with my children's schedule.\n\nHow i'm i? I think I'm an optimistic and calm person with high level stress control, I like people, I like what I do and I like to do it well, I'm usually very demanding of myself and sometimes it stresses me. I am a curious person and I am used to evolving and trying to stay up to date with all the changes and updates of the technologies we are using.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/409d2a89-2431-4435-8a1a-f9f29adb1845_linkedin-photo-279.linkedin-photo-279",
-        "alt": "23/12/07/409d2a89-2431-4435-8a1a-f9f29adb1845_linkedin-photo-279.linkedin-photo-279"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/db36de9f-40d2-4d34-829f-e81b1b478944_linkedin-photo-279.linkedin-photo-279",
+        "alt": "23/12/07/db36de9f-40d2-4d34-829f-e81b1b478944_linkedin-photo-279.linkedin-photo-279"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJGQVeRvRfLg0RIMrJc4L1BAM)",
@@ -36,6 +36,209 @@
       {
         "type": "stackoverflow",
         "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ágata Technology",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/9b459510-de90-4e3a-8b1e-119ebd390825_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/9b459510-de90-4e3a-8b1e-119ebd390825_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Architect",
+            "startDate": "2023-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nextail Labs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/efa6c708-74f1-4d24-8d94-6a631ebe7f22_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/efa6c708-74f1-4d24-8d94-6a631ebe7f22_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Software Developer",
+            "startDate": "2021-05-01",
+            "finishDate": "2023-02-28",
+            "challenges": [
+              {
+                "description": "Working on the migration of the optimization platform. Creating a scalable architecture and decomposing the project into projects easier to maintain and understand.\nOptimizing the system and improving the java code.\nDatabase migration from a relational database (Aurora) to Snowflake’s Data Cloud."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vitae Consultores",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/a1ce6132-207e-457e-9ea2-f11c75a03928_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/a1ce6132-207e-457e-9ea2-f11c75a03928_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Formador asociado",
+            "startDate": "2019-07-01",
+            "finishDate": "2019-08-01",
+            "challenges": [
+              {
+                "description": "Formador java Básico. 12 horas.\n\nQueres Tecnología. (Polígono de Alvedro)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vitae Consultores",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/b9029f0e-5bbd-4cec-bc02-8b8e0bbcbc80_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/b9029f0e-5bbd-4cec-bc02-8b8e0bbcbc80_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Formador asociado",
+            "startDate": "2019-02-01",
+            "finishDate": "2019-03-01",
+            "challenges": [
+              {
+                "description": "Formador Hibernate y Spring Avanzado. 40h\n\nBahia Software (Santiago de Compostela)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Vitae Consultores",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/4057853c-8003-4cc0-9604-4b39e0c157c2_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/4057853c-8003-4cc0-9604-4b39e0c157c2_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Formador asociado",
+            "startDate": "2015-09-01",
+            "finishDate": "2015-10-01",
+            "challenges": [
+              {
+                "description": "Formador Java, Hibernate, Spring. 16h\n\nB the travel brand (Palma de Mallorca)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Corunet",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/fc38cf76-7670-4478-b595-cea9d7eb785a_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/fc38cf76-7670-4478-b595-cea9d7eb785a_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Team Leader",
+            "startDate": "2015-05-01",
+            "finishDate": "2021-05-31",
+            "challenges": [
+              {
+                "description": "2018 - 2021\nWorking in the migration of the eCommerce platform of one of the biggest retail enterprises in the world. This platform is a monolith capable of attending 7000 - 9000 orders per minute in more than 60 countries, this was a limitation in moments of a big load and that's the reason why this enterprise takes the decision of migrating to microservices trusting in us to perform this job.\nAt this moment I'm the team leader of a group of 5 and we are developing 3 microservices of a total of 8 expected to attend more than 20.000 orders per minute.\nThose microservices are developed using java 11 using spring boot as a framework and MongoDB, db2, WebSphere MQ, Kafka, rest (open API), and grpc as technologies and following design principles as DDD, hexagonal architecture, TDD, event-driven architecture, etc.\n\n2015 - 2018.\nWorking in a dynamic XML parser and persistence system receiving more than 300 MQ messages per second and parsing and persisting them in oracle and couchbase.\nThis system receives all the info sent by the cash registers of the stores from one of the biggest retail enterprises in the world.\nIn this project, we were a group of 4 developers of which I was the team leader.\nThis application was developed using Java 8, spring and hibernate as frameworks, WebSphere MQ, couchbase, and oracle as technologies and it's deployed in WebSphere.\nThis application was awarded as the best IT project of the year, competing with more than 200 projects."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Popular Servicios Financieros (Oesia)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/e253d624-2b80-4821-9daa-27db133183f5_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/e253d624-2b80-4821-9daa-27db133183f5_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollo y gestión de proyectos TIC.",
+            "startDate": "2014-09-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Popular servicios financieros (PSF).\n1.- Maintenance of J2ee web applications and applications developed in c language.\n\nUsed technologies and tools: Java EE, struts, maven, subversion, websphere, oracle, eclipse, spring, hibernate, jstl, git, c."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Popular Servicios Financieros (Oesia)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/56774582-f225-4070-b804-bf7e8d7b07d6_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/56774582-f225-4070-b804-bf7e8d7b07d6_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollo y gestión de proyectos TIC",
+            "startDate": "2010-02-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "1. Maintenance of applications.\n2. Analysis, design and development of new applications in the TGT area (store management terminal).\nDefining the tech solution to implement, studying the possibilities and deciding which is the most appropriate for the TGT environment. Requirements analysis tasks and decision making of the best possible solution.\nInterrelation with technical areas for organization of responsibilities around the technical solution to implement. Taking requirements with business and monitoring the status of tasks.\nMonitoring of cross-cutting tasks. Executing the tasks of the area.\n3. Customer management - Business: project monitoring with Business: SS.CC. and chains.\n4. Vendor monitoring: planning tasks, assigning vendor development groups (up to four people) and monitoring the status of tasks. Using agile methodologies (Scrum) for this.\n\nUsed technologies and tools: Java EE, struts, maven, subversion, websphere, eclipse, spring, hibernate, jstl, ant, jira. InfoSphere Data Architect, Scrum, OpenProject."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hospedaxes - Desarrollo de negocio en Internet",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/bbddd8d5-0156-4ac0-942f-0017dd773c10_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/bbddd8d5-0156-4ac0-942f-0017dd773c10_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollo y gestión de proyectos TIC",
+            "startDate": "2007-11-01",
+            "finishDate": "2010-01-31",
+            "challenges": [
+              {
+                "description": "Development of different B2B, B2C and B2E projects, for different companies.\nClient management, meetings with business to take requirements and follow-up of projects.\nManagement of tasks and development groups of up to 4 people.\nRequirements analysis, design and development of new applications.\nMaintenance of applications.\n\nUsed technologies: LAMP ( linux, apache, MySQL, php), framework CakePHP."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Altia S.A.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/590df85b-718f-47ee-bc32-6a1a4e9ac6d5_linkedin-photo-279.linkedin-photo-279",
+            "alt": "23/12/07/590df85b-718f-47ee-bc32-6a1a4e9ac6d5_linkedin-photo-279.linkedin-photo-279"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollo de proyectos TIC. Becario",
+            "startDate": "2007-07-01",
+            "finishDate": "2007-09-30"
+          }
+        ]
       }
     ]
   },

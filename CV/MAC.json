@@ -1,58 +1,60 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Bernal",
       "surnames": "Varela Gómez",
-      "title": "",
-      "description": "",
+      "title": "Senior Software Developer looking for an unicorn",
+      "description": "Hello.\n\nI am Bernal Varela, Galician software developer from A Coruña, I have been working in what I like, creating software, since 2007 and loving computers since I have memory.\n\nI'm a father of three, sports lover and cyclist when the weather allows it. I can't imagine my life without music, I play some instruments that give me peace of mind when I'm stressed. I like movies, video games, and board games.\nThis is what I like, but all the things that I like to do usually don't fit very well with my children's schedule.\n\nHow i'm i? I think I'm an optimistic and calm person with high level stress control, I like people, I like what I do and I like to do it well, I'm usually very demanding of myself and sometimes it stresses me. I am a curious person and I am used to evolving and trying to stay up to date with all the changes and updates of the technologies we are using.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/07/409d2a89-2431-4435-8a1a-f9f29adb1845_linkedin-photo-279.linkedin-photo-279",
+        "alt": "23/12/07/409d2a89-2431-4435-8a1a-f9f29adb1845_linkedin-photo-279.linkedin-photo-279"
+      },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJGQVeRvRfLg0RIMrJc4L1BAM)",
         "country": "España",
-        "region": "Galicia",
-        "municipality": "La Coruña",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Galicia"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/bernalvarela"
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/bernalvarela"
       },
       {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
+        "type": "github",
+        "URL": "https://github.com/bernalvarela"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/bernalvarela"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bernalvarela/"
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "French",
-        "level": "Limited working proficiency"
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "Galician",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
+        "name": "GL",
+        "fullName": "Gallego",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -64,7 +66,7 @@
       },
       {
         "skill": {
-          "name": "Spring",
+          "name": "Kafka",
           "type": "technology"
         }
       },
@@ -76,7 +78,7 @@
       },
       {
         "skill": {
-          "name": "Kafka",
+          "name": "Spring",
           "type": "technology"
         }
       }
@@ -86,12 +88,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/bernalvarela/"
+          "URL": "https://linkedin.com/in/bernalvarela",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/3964370/bernal_varela"
+          "URL": "https://stackoverflow.com/users/3964370/bernal_varela",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/bernalvarela",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/bernalvarela",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "bernalvarela@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "619889097",
+          "countryCode": "+34"
         }
       ]
     },
@@ -124,5 +143,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "For me it's important to work to an enterprise making you feel like you're at home and where i always feel valued.\nWorking in projects giving value to the society and where i can grow as worker and as person.",
+    "goodPractices": "TDD"
   }
 }

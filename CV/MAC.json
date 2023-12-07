@@ -263,7 +263,37 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Couchbase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JUnit",
           "type": "technology"
         }
       },
@@ -275,13 +305,37 @@
       },
       {
         "skill": {
+          "name": "Mockito",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -348,6 +402,28 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JUnit",
+        "type": "technology"
+      },
+      {
+        "name": "Mockito",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "For me it's important to work to an enterprise making you feel like you're at home and where i always feel valued.\nWorking in projects giving value to the society and where i can grow as worker and as person.",
     "goodPractices": "TDD"
   }
